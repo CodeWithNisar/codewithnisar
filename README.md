@@ -1,4 +1,4 @@
-# 👾 Hey, I'm Nisar — aka **CodeWithNisar**
+# 👾 Hey, I'm Nissarr Alee **CodeWithNisar**
 
 💻 **Self‑taught Dev | JS • HTML • CSS • Web Experiments**
 📺 Teaching beginners with a mix of **Hindi/Urdu + English**
